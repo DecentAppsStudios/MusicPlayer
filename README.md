@@ -69,7 +69,7 @@ Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast aft
 <b>Contact</b>
 
 To contact me on topics related to products, privacy policy or in another case, use 
-.......@gmail.com
+.......decentappsstudioshelp@gmail.com
 
 Best regards!
 
